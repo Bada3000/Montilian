@@ -1,0 +1,110 @@
+* {  
+ margin:0;
+}
+html { 
+   background-color: #2c2c2c;
+}
+.intro-text { 
+ text-align:center;
+ }
+
+ .glava { 
+	 color:#fff;
+   font-size:100px;
+   text-align: center;
+   font-weight: 500;
+   }
+  
+   
+ .opisanie { 
+	color:White;
+	font-size:40px;
+	text-align: center:		
+   }
+ .join-us{
+   font-family: Dancing Script; 
+   color:White;
+	font-size:20;
+ }   
+ .pod{
+   font-size:37;
+ } 
+.pod-inf{
+  text-indent:20;
+  color:#cccccc;
+}
+ .zagol {
+   text-align:center;
+   font-size:15;
+   font-weight: bold;
+   color:#cccccc;
+}
+  .vot {
+ font-size:13;
+   color: #cccccc;
+ }
+ .ende {
+   text-align:center;
+   font-size:10;
+   font-weight:bold;
+   color:#cccccc;
+}
+.background-img{
+  background-image: url(https://www.meme-arsenal.com/memes/918d31eee303f98d15d65a1e29638b69.jpg) ;
+  text-align:center;
+  background-position:center;
+  width:100hv;
+  -webkit-width;100hv;
+  font-family: 'Bebas Neue', cursive;
+  border:0.5px solid #85A0C9;
+ border-radius: 0 0 30px 30px;
+ -webkit-border-radius: 0 0 30px 30px;
+ -moz-border-radius: 30px;
+} 
+ 
+ .pod {
+   background-image: url(unnamed.png) ;
+  width:1000px;
+  font-family: 'Comfortaa', cursive;
+}
+ .insight {
+   height:400;
+   float:right;
+   border:0.1px solid #85A0C9;
+   border-radius: 200px 0 200px 0;
+   -webkit-border-radius: 200px 0 200px 0;
+   -moz-border-radius: 30px;
+}
+ .niz-shap {
+   height:100hv;
+   background-image: url(https://www.meme-arsenal.com/memes/918d31eee303f98d15d65a1e29638b69.jpg) ;
+   text-align:center;
+}
+ #linke {
+   color:#fff;
+   font-family: 'Comfortaa', cursive;
+   
+   }
+ #linke:hover{
+   color:Black;
+   background:#fff;
+  
+ 
+   }
+
+  
+ 
+ 
+ 
+
+
+  
+
+
+ 
+ 
+   
+ 
+	
+	
+    
